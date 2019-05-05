@@ -1,0 +1,10 @@
+Setup Elaastic Search
+https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker
+https://github.com/thecarlo/elastic-kibana-netcore-serilog
+
+
+Set Up azure Servive Bus
+https://www.youtube.com/watch?v=nVCcOL3MULk
+https://github.com/cpvariyani/azure-service-bus-send
+https://github.com/cpvariyani/azure-service-bus-listner
+
